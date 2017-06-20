@@ -1,6 +1,6 @@
 # screenme
 
-quick script to help with logging terminal output
+Quick script to help with logging terminal output. Uses screen. 
 
 Usage:
 
